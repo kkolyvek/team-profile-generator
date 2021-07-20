@@ -48,6 +48,8 @@ For more information, please refer to <http://unlicense.org/>
 
 ## Contributing
 
+If you'd like to develop this code for your own use, feel free to fork the repository!
+
 ## Tests
 
 ## Questions
