@@ -4,6 +4,8 @@
 
 ## Description
 
+A command-line application that generates a team profile HTML file.
+
 ## Table of Contents
 
 1. [Installation](#installation)
@@ -15,7 +17,27 @@
 
 ## Installation
 
+This application uses [Node.js](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) - both are required.
+
 ## Usage
+
+This readme generator is a simple command line program. Once installed and ran, the user will be prompted for several details:
+
+- Team Member Title
+- Employee Name
+- Employee ID Number
+- Employee Email Address
+- For Managers, Office Number
+- For Engineers, GitHub Username
+- For Interns, School Name
+
+After each employee is added, the user will be asked whether they'd like to add another employee. Entering 'no' will be exit the program and create the HTML file. Please refer to the demo below for more clarification:
+
+> ![Demo Video](./resources/images/readme-video.gif)
+
+Upon completion of the prompts, an `index.html` file will be created in the working directory.
+
+> ![Site Preview](./resources/images/site-preview.png)
 
 ## License
 
@@ -51,6 +73,8 @@ For more information, please refer to <http://unlicense.org/>
 If you'd like to develop this code for your own use, feel free to fork the repository!
 
 ## Tests
+
+This repository makes use of [jest](https://jestjs.io/), an npm package for writing tests. The test folder contains several files designed to check the classes used in the code.
 
 ## Questions
 
