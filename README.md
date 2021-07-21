@@ -1,6 +1,9 @@
 <h1 align="center"><strong>Team Profile Generator</strong></h1>
 
-![Language](https://img.shields.io/github/languages/top/kkolyvek/team-profile-generator) ![License](https://img.shields.io/badge/License-Unlicensed-blue.svg)
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/kkolyvek/team-profile-generator">
+  <img src="https://img.shields.io/badge/License-Unlicensed-blue.svg">
+</p>
 
 ## Description
 
